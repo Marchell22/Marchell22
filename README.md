@@ -12,7 +12,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📈 GitHub Stats
-![Marchell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarchellManurung&show_icons=true&theme=radical)
+![Marchell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marchell22&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchell22&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marchell-manurung)
