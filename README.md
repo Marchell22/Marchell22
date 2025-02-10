@@ -4,7 +4,7 @@
   <a href="https://github.com/Marchell22">
     <img src="https://img.shields.io/github/followers/Marchell22?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/marchell-mmanurung">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -13,9 +13,8 @@
 
 ### 🚀 **About Me**
 - 🎓 I'm passionate about **Software Development & Web Technologies**
-- 🏗️ Currently working on **[Your Project Name](https://github.com/your-repo)**
 - 🔍 Exploring **React, Laravel, and Tailwind CSS**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **ramotmanurung424@gmail.com**
 
 ---
 
@@ -40,7 +39,7 @@
 
 ### 📫 **Let's Connect!**
 - 📧 Email: ramotmanurung424@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/marchell-manurung)  
 - 🌎 Portfolio: [Your Website](https://your-portfolio.com)
 
 ---
