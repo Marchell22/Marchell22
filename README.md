@@ -39,7 +39,7 @@
 
 ### 📫 **Let's Connect!**
 - 📧 Email: ramotmanurung424@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/marchell-manurung)  
+- 💼 LinkedIn: [Marchell Manurung](https://linkedin.com/in/marchell-manurung)  
 - 🌎 Portfolio: [Your Website](https://your-portfolio.com)
 
 ---
