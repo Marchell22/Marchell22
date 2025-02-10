@@ -1,20 +1,48 @@
-# 👋 Hi, I'm Marchell Manurung!
+<h1 align="center">Hi there, I'm Marchell Manurung 👋</h1>
 
-## 🚀 About Me
-- 💻 I'm a passionate developer working on Laravel, React, and C++98 projects.
-- 📊 Currently improving **accounting & financial systems** in Laravel.
-- 🔧 Working with **Fonnte WhatsApp API**, TailwindCSS, and database seeding.
+<p align="center">
+  <a href="https://github.com/Marchell22">
+    <img src="https://img.shields.io/github/followers/Marchell22?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-## 🔨 Tech Stack
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+---
 
-## 📈 GitHub Stats
-![Marchell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marchell22&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchell22&layout=compact&theme=radical)
+### 🚀 **About Me**
+- 🎓 I'm passionate about **Software Development & Web Technologies**
+- 🏗️ Currently working on **[Your Project Name](https://github.com/your-repo)**
+- 🔍 Exploring **React, Laravel, and Tailwind CSS**
+- 📫 Reach me at: **your.email@example.com**
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marchell-manurung)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarchellManurung)
+---
+
+### 🛠️ **Tech Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-PHP-474A8A?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Styles-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marchell22&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marchell22&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 📫 **Let's Connect!**
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌎 Portfolio: [Your Website](https://your-portfolio.com)
+
+---
+
+⭐️ From [Marchell22](https://github.com/Marchell22)  
