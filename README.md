@@ -40,7 +40,7 @@
 ### 📫 **Let's Connect!**
 - 📧 Email: ramotmanurung424@gmail.com  
 - 💼 LinkedIn: [Marchell Manurung](https://linkedin.com/in/marchell-manurung)  
-- 🌎 Portfolio: [Your Website](https://your-portfolio.com)
+- 🌎 Portfolio: [My Porto](https://marchell22.github.io/porto-chell)
 
 ---
 
