@@ -39,7 +39,7 @@
 ---
 
 ### 📫 **Let's Connect!**
-- 📧 Email: your.email@example.com  
+- 📧 Email: ramotmanurung424@gmail.com  
 - 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
 - 🌎 Portfolio: [Your Website](https://your-portfolio.com)
 
